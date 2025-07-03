@@ -6,4 +6,3 @@ streamlit
 pandas
 python-dotenv
 sentence-transformers
-sqlite3
