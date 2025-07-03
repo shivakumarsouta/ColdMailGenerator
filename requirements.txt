@@ -6,4 +6,4 @@ streamlit
 pandas
 python-dotenv
 sentence-transformers
-pysqlite3-binary
+sqlite3 >= 3.35.0
