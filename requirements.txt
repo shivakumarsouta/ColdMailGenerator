@@ -1,8 +1,9 @@
 streamlit
-chromadb[all]
+chromadb
 pandas
 langchain
 langchain-community
 langchain-groq
 python-dotenv
 sentence-transformers
+protobuf==3.20.3
