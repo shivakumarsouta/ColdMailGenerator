@@ -1,9 +1,8 @@
+streamlit
+chromadb[all]
+pandas
 langchain
 langchain-community
 langchain-groq
-chromadb
-streamlit
-pandas
 python-dotenv
 sentence-transformers
-pysqlite3-binary
