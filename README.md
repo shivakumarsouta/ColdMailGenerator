@@ -40,7 +40,7 @@ cd ColdMailGenerator
 
 # 2. (Optional) Setup virtual environment
 python3 -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+venv/bin/activate  # Windows: venv\Scripts\activate
 
 # 3. Install dependencies
 pip install -r requirements.txt
