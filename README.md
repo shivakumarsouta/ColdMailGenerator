@@ -35,7 +35,7 @@ Streamlit UI (Display + Customize)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/shivkumars005/ColdMailGenerator.git
+git clone https://github.com/shivakumarsouta/ColdMailGenerator.git
 cd ColdMailGenerator
 
 # 2. (Optional) Setup virtual environment
@@ -87,7 +87,7 @@ streamlit run app.py
 
 ## 🙋‍♂️ Contact
 
-[GitHub](https://github.com/shivkumars005) | [LinkedIn](https://linkedin.com/in/shivakumarsouta) | [Mail](shivakumarsouta18@gmail.com) | [Portfolio](https://shivakumarsouta-portfolio.vercel.app)
+[GitHub](https://github.com/shivakumarsouta) | [LinkedIn](https://linkedin.com/in/shivakumarsouta) | [Mail](shivakumarsouta18@gmail.com) | [Portfolio](https://shivakumarsouta-portfolio.vercel.app)
 
 ---
 
